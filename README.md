@@ -1,16 +1,16 @@
 # Marketing Working Group
 
-The Marketing Working Group, or Mkt WG for short, focuses on various marketing
-and brand topics surrounding OpenBao. Its purpose and governance is outlined in
-the dedicated [charter](./CHARTER.md).
+The Marketing Working Group, or Marketing WG for short, focuses on various
+marketing and brand topics surrounding OpenBao. Its purpose and governance is
+outlined in the dedicated [charter](./CHARTER.md).
 
-- Lead: Vacant (TBD)
-- Mailing list: [openbao-marketing-wg@lists.openssf.org](https://lists.openssf.org/g/openbao-marketing-wg)
-- Zulip: TODO
+* Lead: Vacant (TBD)
+* Mailing list: [openbao-marketing-wg@lists.openssf.org](https://lists.openssf.org/g/openbao-marketing-wg)
+* Zulip: https://linuxfoundation.zulipchat.com/#narrow/channel/638131-openssf-openbao-wg-marketing
 
 ## Subgroups
 
-The Mkt WG currently has no specific subgroups.
+The Marketing WG currently has no specific subgroups.
 
 ## Other Working Groups
 
